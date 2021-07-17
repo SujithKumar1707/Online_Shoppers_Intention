@@ -1,2 +1,2 @@
 # Online_Shoppers_Intention
-This model will idetify the customers who will buy/exit the online shopping platform 
+This model will identify the customers who will buy/exit the online shopping platform 
